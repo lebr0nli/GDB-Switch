@@ -1,0 +1,5 @@
+{
+    "default": "gef",
+    "pwndbg": "/pwndbg/gdbinit.py",
+    "gef": "~/.gdbinit-gef.py"
+}
