@@ -38,7 +38,8 @@ First, you need to change `~/.gdb-switch/plugins.json` to fit your setup, for ex
 }
 ```
 
-> Note: `"default"` is a default plug-in if you pass an empty env variable to `gdbswitch`, you can change its value to null if you want.
+> **Note**
+> `"default"` is a default plug-in if you pass an empty env variable to `gdbswitch`, you can change its value to null if you want.
 
 Add `source ~/.gdb-switch/gdbinit-switch.py` to the first line of `~/.gdbinit`.
 
